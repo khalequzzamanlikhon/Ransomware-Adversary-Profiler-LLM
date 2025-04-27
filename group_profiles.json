@@ -1,0 +1,848 @@
+{
+  "Ransomware.live API": [
+    {
+      "Country": "Canada",
+      "Industry": "Legal",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "customer data",
+        "payment records",
+        "trusts",
+        "tax planning",
+        "inheritance tax",
+        "enduring powers of attorney",
+        "lasting powers of attorney",
+        "deputyships"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Healthcare",
+      "Revenue": 6800000,
+      "Employees": 30,
+      "Data_types": [
+        "370gb"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Manufacturing",
+      "Revenue": 450000,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "UK",
+      "Industry": "Education",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Healthcare",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Gambling",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "blueprints"
+      ]
+    },
+    {
+      "Country": "Argentina",
+      "Industry": "Construction",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Healthcare",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "XX",
+      "Revenue": 76200000,
+      "Employees": 655,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "Technology",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "customer data",
+        "DB data",
+        "technical documents",
+        "projects data",
+        "company-related documents"
+      ]
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Luxembourg",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Electricity",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "personal information",
+        "financial data",
+        "corporate NDA's",
+        "confidential trial documents"
+      ]
+    },
+    {
+      "Country": "Saudi Arabia",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Germany",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Manufacturing",
+      "Revenue": 2500000,
+      "Employees": 30,
+      "Data_types": [
+        "financial records"
+      ]
+    },
+    {
+      "Country": "XX",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "Healthcare",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Malaysia",
+      "Industry": "Agriculture",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Peru",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "financial data",
+        "corporate licenses",
+        "agreements and contracts",
+        "contact numbers and email addresses",
+        "torrent files"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Germany",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "corporate documents",
+        "pension insurance numbers",
+        "contact numbers and email addresses",
+        "HR documents",
+        "financial data",
+        "corporate licenses",
+        "agreements and contracts",
+        "internal corporate correspondences"
+      ]
+    },
+    {
+      "Country": "Brazil",
+      "Industry": "Construction",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "files"
+      ]
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Italy",
+      "Industry": "Manufacturing",
+      "Revenue": 3000,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Italy",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "corporate documents"
+      ]
+    },
+    {
+      "Country": "XX",
+      "Industry": "Legal",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "personal information of employees and customers",
+        "financial data of the firm and its clients",
+        "confidential agreements",
+        "trial documents",
+        "corporate NDA\u2019s"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Construction",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "personal documents",
+        "financial data",
+        "projects",
+        "confidential agreements",
+        "corporate NDA's"
+      ]
+    },
+    {
+      "Country": "France",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 90000,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 60000,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Germany",
+      "Industry": "Retail",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "Files",
+        "SQL"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 83,
+      "Data_types": [
+        "XX"
+      ]
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Legal",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Switzerland",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "painting supplies"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Portugal",
+      "Industry": "Media",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "employee details",
+        "financial data",
+        "corporate NDA"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Retail",
+      "Revenue": 32000000,
+      "Employees": 109,
+      "Data_types": [
+        "customer emails",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Ireland",
+      "Industry": "Retail",
+      "Revenue": 125000000,
+      "Employees": 325,
+      "Data_types": [
+        "customer data",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "Argentina",
+      "Industry": "Drug Stores & Pharmacies",
+      "Revenue": 17500000,
+      "Employees": 325,
+      "Data_types": [
+        "customer data",
+        "financial records"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Legal",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "trial documents",
+        "client data"
+      ]
+    },
+    {
+      "Country": "Germany",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "corporate documents",
+        "financial data",
+        "contracts containing personal data",
+        "customer data",
+        "employee files"
+      ]
+    },
+    {
+      "Country": "Chile",
+      "Industry": "Accounting",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "corporate documents",
+        "financial data",
+        "corporate NDAs",
+        "confidential personal details"
+      ]
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "customer data",
+        "payment records",
+        "financial data",
+        "corporate NDA's"
+      ]
+    },
+    {
+      "Country": "Taiwan",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Legal",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "customer data",
+        "payment records"
+      ]
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Manufacturing",
+      "Revenue": 10000000,
+      "Employees": 500,
+      "Data_types": [
+        "blueprints",
+        "financial records"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Transportation",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "Healthcare",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 500,
+      "Data_types": [
+        "corporate NDA's",
+        "financial data"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Government",
+      "Revenue": 500000,
+      "Employees": 15,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Technology",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": [
+        "iris recognition technology products",
+        "access control",
+        "time and attendance",
+        "public safety and justice",
+        "transportation and immigration",
+        "national identity solutions"
+      ]
+    },
+    {
+      "Country": "Brazil",
+      "Industry": "Technology",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Legal",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Taiwan",
+      "Industry": "Healthcare",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Accounting",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "Canada",
+      "Industry": "Healthcare",
+      "Revenue": 1000000,
+      "Employees": 50,
+      "Data_types": [
+        "customer data",
+        "financial records"
+      ]
+    },
+    {
+      "Country": "USA",
+      "Industry": "Compliance",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "UK",
+      "Industry": "Transportation",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "Manufacturing",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "XX",
+      "Industry": "Commercial & Residential Construction",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    },
+    {
+      "Country": "USA",
+      "Industry": "XX",
+      "Revenue": 0,
+      "Employees": 0,
+      "Data_types": []
+    }
+  ]
+}

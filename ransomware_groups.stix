@@ -1,0 +1,93 @@
+{
+    "type": "bundle",
+    "id": "bundle--e612d3f8-e736-432a-996a-517a9265769a",
+    "objects": [
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--01529f16-5111-41ea-b62e-d6fb80b3d48f",
+            "created": "2025-04-27T21:33:17.297925Z",
+            "modified": "2025-04-27T21:33:17.297925Z",
+            "name": "Ransomware.live API Data Exfiltration Pattern",
+            "description": "Typically exfiltrates payment records data",
+            "pattern": "[file:name MATCHES 'payment_records']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2025-04-27T21:33:17Z"
+        },
+        {
+            "type": "x-threat-actor",
+            "spec_version": "2.1",
+            "id": "x-threat-actor--05b68f62-a439-4ba3-b18d-a651a4ce1b47",
+            "created": "2025-04-27T21:33:17.29713Z",
+            "modified": "2025-04-27T21:33:17.29713Z",
+            "external_references": [
+                {
+                    "source_name": "Ransomware.live",
+                    "url": "https://ransomware.live/#/group/ransomware.live api"
+                }
+            ],
+            "x_avg_victim_revenue": 6627303,
+            "x_avg_victim_size": 39,
+            "x_most_targeted_country": "XX",
+            "x_most_targeted_industry": "XX",
+            "description": "Ransomware group targeting XX sectors",
+            "goals": [
+                "financial-gain",
+                "disrupt-operations"
+            ],
+            "name": "Ransomware.live API",
+            "primary_motivation": "financial",
+            "resource_level": "organization",
+            "sophistication": "intermediate"
+        },
+        {
+            "type": "malware",
+            "spec_version": "2.1",
+            "id": "malware--65e12fd5-d157-4109-8e64-a75742a28ed7",
+            "created": "2025-04-27T21:33:17.297532Z",
+            "modified": "2025-04-27T21:33:17.297532Z",
+            "name": "Ransomware.live API Ransomware",
+            "description": "Ransomware variant used by Ransomware.live API",
+            "malware_types": [
+                "ransomware"
+            ],
+            "is_family": false
+        },
+        {
+            "type": "attack-pattern",
+            "spec_version": "2.1",
+            "id": "attack-pattern--17264d2f-1e8b-49e1-b0ec-7f4fbac5e5a5",
+            "created": "2025-04-27T21:33:17.29776Z",
+            "modified": "2025-04-27T21:33:17.29776Z",
+            "name": "Data Encryption and Extortion",
+            "description": "Encrypts victim data and demands ransom payment",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "lockheed-martin-cyber-kill-chain",
+                    "phase_name": "actions-on-objectives"
+                }
+            ]
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--64886360-ce90-4e9a-ae2f-6e56b3885f8e",
+            "created": "2025-04-27T21:33:17.308953Z",
+            "modified": "2025-04-27T21:33:17.308953Z",
+            "relationship_type": "uses",
+            "source_ref": "x-threat-actor--05b68f62-a439-4ba3-b18d-a651a4ce1b47",
+            "target_ref": "malware--65e12fd5-d157-4109-8e64-a75742a28ed7"
+        },
+        {
+            "type": "relationship",
+            "spec_version": "2.1",
+            "id": "relationship--16d01222-6ed1-41df-9732-e2c85608dd3b",
+            "created": "2025-04-27T21:33:17.309265Z",
+            "modified": "2025-04-27T21:33:17.309265Z",
+            "relationship_type": "employs",
+            "source_ref": "x-threat-actor--05b68f62-a439-4ba3-b18d-a651a4ce1b47",
+            "target_ref": "attack-pattern--17264d2f-1e8b-49e1-b0ec-7f4fbac5e5a5"
+        }
+    ]
+}
