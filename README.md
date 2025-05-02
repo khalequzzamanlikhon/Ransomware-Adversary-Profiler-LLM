@@ -10,16 +10,6 @@ This project leverages Large Language Models (LLMs) to analyze ransomware attack
 - **Visual Analytics**: Interactive dashboards showing attack patterns
 - **Adversary Profiling**: Identifies group preferences for industries, company sizes, and geographies
 
-## Project Architecture
-    ```mermaid
-    graph TD
-        A[Data Collection] --> B[Database Storage]
-        B --> C[LLM Processing]
-        C --> D[STIX Generation]
-        D --> E[Visual Analytics]
-        C --> F[Threat Actor Profiles]
-
-
 
 # Installation
 1. Clone the repository:
@@ -53,7 +43,7 @@ This project leverages Large Language Models (LLMs) to analyze ransomware attack
   
   - Hugging Face Transformers: LLM pipeline management
 
-#Data Sources
+# Data Sources
 - Ransomware.live API
 
 
