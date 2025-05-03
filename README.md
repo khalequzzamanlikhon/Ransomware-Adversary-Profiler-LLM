@@ -14,7 +14,7 @@ This project leverages Large Language Models (LLMs) to analyze ransomware attack
 # Installation
 1. Clone the repository:
    ```bash
-    git clone https://github.com/your-username/ransomware-adversary-profiler.git
+    git clone https://github.com/khalequzzamanlikhon/Ransomware-Adversary-Profiler-LLM.git
     cd ransomware-adversary-profiler
 
 2. Set up Python environment:
