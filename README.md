@@ -7,7 +7,6 @@ This project leverages Large Language Models (LLMs) to analyze ransomware attack
 - **Automated Data Collection**: Scrapes ransomware victim data from leak sites and APIs
 - **LLM-Powered Analysis**: Uses Mistral-7B to extract structured threat intelligence
 - **STIX 2.1 Output**: Generates standardized threat intelligence reports
-- **Visual Analytics**: Interactive dashboards showing attack patterns
 - **Adversary Profiling**: Identifies group preferences for industries, company sizes, and geographies
 
 
